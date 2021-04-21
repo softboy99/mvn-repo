@@ -3,10 +3,10 @@
   <groupId>com.pdfreporting</groupId>
   <artifactId>pdfreporter-extensions</artifactId>
   <versioning>
-    <release>1.3.0-SNAPSHOT</release>
+    <release>1.3.1-SNAPSHOT</release>
     <versions>
-      <version>1.3.0-SNAPSHOT</version>
+      <version>1.3.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200722110254</lastUpdated>
+    <lastUpdated>20210421102354</lastUpdated>
   </versioning>
 </metadata>
